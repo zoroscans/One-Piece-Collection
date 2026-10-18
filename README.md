@@ -1,6 +1,6 @@
 Zoro Scans
 
-"Zoro Scans" (./.site.jpg)
+"Zoro Scans" (./site.jpg)
 
 Zoro Scans is an online manga and manhwa reading platform focused on providing a clean, fast, and mobile-friendly reading experience.
 

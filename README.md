@@ -1,5 +1,7 @@
 Zoro Scans
 
+"Zoro Scans" (./.site.jpg)
+
 Zoro Scans is an online manga and manhwa reading platform focused on providing a clean, fast, and mobile-friendly reading experience.
 
 🌐 Website: https://zoroscans.pages.dev/
@@ -52,8 +54,8 @@ If you enjoy a series, please support its official release through authorized pu
 Links
 
 - Official Website: https://zoroscans.pages.dev/
-- Manga: https://zoroscans.pages.dev/anime/one-piece/
-- One Piece: https://zoroscans.pages.dev/manga/one-piece/
+- Anime: https://zoroscans.pages.dev/anime/one-piece/
+- Manga: https://zoroscans.pages.dev/manga/one-piece/
 
 ---
 

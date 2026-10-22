@@ -6,7 +6,7 @@ Zoro Scans is an online manga and manhwa reading platform focused on providing a
 
 Zoro Scans is an online manga and manhwa reading platform focused on providing a clean, fast, and mobile-friendly reading experience.
 
-🌐 Website: https://zoroscans.pages.dev/
+🌐 Website: https://tcbscans.pages.dev/
 
 About Zoro Scans
 
@@ -33,7 +33,7 @@ Website
 
 Visit Zoro Scans:
 
-https://zoroscans.pages.dev/
+https://tcbscans.pages.dev/
 
 Technology
 
@@ -55,9 +55,9 @@ If you enjoy a series, please support its official release through authorized pu
 
 Links
 
-- Official Website: https://zoroscans.pages.dev/
-- Anime: https://zoroscans.pages.dev/anime/one-piece/
-- Manga: https://zoroscans.pages.dev/manga/one-piece/
+- Official Website: https://tcbscans.pages.dev/
+- Anime: https://tcbscans.pages.dev/anime/one-piece/
+- Manga: https://tcbscans.pages.dev/manga/one-piece/
 
 ---
 
